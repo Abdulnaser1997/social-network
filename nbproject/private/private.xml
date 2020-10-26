@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Forum.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/Imp/PersonRelatedImpl.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/person_WorkID.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/country.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/University.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/continent.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/APIs/StatisticAPI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/HelpClasses/InputHelper.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Person_UniversityID.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/workAT.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/HibernateUtil.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Tagclass.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Comment.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Tag.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/HelpClasses/Outputformatter.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/person.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Organisation.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Langauge.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/Imp/StatisticImpl.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/city.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Company.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/place.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/StudyAt.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Email.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/dao/placeDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/HibernateRdb.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/hibernaterdb/classes/Post.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/hibernateRdb/src/APIs/PersonRelatedAPI.java</file>
+        </group>
+    </open-files>
+</project-private>
